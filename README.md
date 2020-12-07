@@ -1,6 +1,6 @@
 # CameraSlewer
 
-Application provide user an interface to create camera object and locations. Camera object will be mapped to nearest location
+This is a demo application that provides an interface to create <em>Camera</em> and <em>Location</em> objects. It also has a "Slew to Nearest" functionality in which the users can slew the camera to the nearest location that will be selected from a list of previously saved locations. 
 
 **Backend :**
 
