@@ -17,7 +17,7 @@ Angular 10
 
 Material UI
 
-** Third Party Libraries : **
+**Third Party Libraries :**
 
 Google Maps
 
