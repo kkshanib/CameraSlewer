@@ -4,7 +4,7 @@ Application provide user an interface to create camera object and locations. Cam
 
 **Backend :**
 
-Spring boot 
+Spring boot - 2.4.0
 
 Embedded Mongo DB
 
