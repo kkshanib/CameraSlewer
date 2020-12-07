@@ -24,7 +24,7 @@ Google Maps
 
 **Run Commands :**
 
-Service : java -jar geomapper-1.0.0.jar
+Service : java -jar cameraSlewer-1.0.0.jar
 
 Angular UI : ng serve
 
