@@ -2,7 +2,7 @@
 
 Application provide user an interface to create camera object and locations. Camera object will be mapped to nearest location
 
-**Backend : **
+**Backend :**
 
 Spring boot 
 
