@@ -28,6 +28,15 @@ Service : java -jar geomapper-1.0.0.jar
 
 Angular UI : ng serve
 
+**Url :**
+
+http://localhost:4200/camera
+
+
+
+
+
+
 
 
 
