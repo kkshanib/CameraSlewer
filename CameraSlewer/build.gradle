@@ -4,7 +4,7 @@ plugins {
 	id 'java'
 }
 
-group = 'com.geomapping'
+group = 'com.cameraSlewer'
 version = '1.0.0'
 sourceCompatibility = '1.8'
 
