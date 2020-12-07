@@ -13,7 +13,7 @@ This is a demo application that provides an interface to create <em>Camera</em> 
 
 Google Maps
 
-**Build Commands : **
+**Build Commands :**
 
 Service : gradle clean build
 
